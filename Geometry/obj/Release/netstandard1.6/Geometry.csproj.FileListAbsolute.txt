@@ -1,0 +1,8 @@
+C:\Users\faper\source\repos\Geometry\Geometry\bin\Release\netstandard1.6\Geometry.deps.json
+C:\Users\faper\source\repos\Geometry\Geometry\bin\Release\netstandard1.6\Geometry.dll
+C:\Users\faper\source\repos\Geometry\Geometry\bin\Release\netstandard1.6\Geometry.pdb
+C:\Users\faper\source\repos\Geometry\Geometry\obj\Release\netstandard1.6\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\faper\source\repos\Geometry\Geometry\obj\Release\netstandard1.6\Geometry.AssemblyInfo.cs
+C:\Users\faper\source\repos\Geometry\Geometry\obj\Release\netstandard1.6\Geometry.dll
+C:\Users\faper\source\repos\Geometry\Geometry\obj\Release\netstandard1.6\Geometry.pdb
+C:\Users\faper\source\repos\Geometry\Geometry\obj\Release\netstandard1.6\Geometry.csprojResolveAssemblyReference.cache
